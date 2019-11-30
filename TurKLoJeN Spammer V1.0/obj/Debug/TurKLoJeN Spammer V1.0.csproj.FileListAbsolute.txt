@@ -1,0 +1,9 @@
+C:\Users\TurKLoJeN\source\repos\TurKLoJeN Spammer V1.0\TurKLoJeN Spammer V1.0\bin\Debug\TurKLoJeN Spammer V1.0.exe
+C:\Users\TurKLoJeN\source\repos\TurKLoJeN Spammer V1.0\TurKLoJeN Spammer V1.0\bin\Debug\TurKLoJeN Spammer V1.0.pdb
+C:\Users\TurKLoJeN\source\repos\TurKLoJeN Spammer V1.0\TurKLoJeN Spammer V1.0\obj\Debug\TurKLoJeN Spammer V1.0.csprojAssemblyReference.cache
+C:\Users\TurKLoJeN\source\repos\TurKLoJeN Spammer V1.0\TurKLoJeN Spammer V1.0\obj\Debug\TurKLoJeN_Spammer_V1._0.Properties.Resources.resources
+C:\Users\TurKLoJeN\source\repos\TurKLoJeN Spammer V1.0\TurKLoJeN Spammer V1.0\obj\Debug\TurKLoJeN Spammer V1.0.csproj.GenerateResource.cache
+C:\Users\TurKLoJeN\source\repos\TurKLoJeN Spammer V1.0\TurKLoJeN Spammer V1.0\obj\Debug\TurKLoJeN Spammer V1.0.csproj.CoreCompileInputs.cache
+C:\Users\TurKLoJeN\source\repos\TurKLoJeN Spammer V1.0\TurKLoJeN Spammer V1.0\obj\Debug\TurKLoJeN Spammer V1.0.exe
+C:\Users\TurKLoJeN\source\repos\TurKLoJeN Spammer V1.0\TurKLoJeN Spammer V1.0\obj\Debug\TurKLoJeN Spammer V1.0.pdb
+C:\Users\TurKLoJeN\source\repos\TurKLoJeN Spammer V1.0\TurKLoJeN Spammer V1.0\obj\Debug\TurKLoJeN_Spammer_V1._0.Form1.resources
