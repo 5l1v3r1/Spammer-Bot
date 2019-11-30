@@ -1,5 +1,9 @@
-# Spammer-Bot
-TurKLoJeN Spammer Bot
+# TurKLoJeN Spammer Bot
+
+Programın amacı yazdığınız metinleri belirlediğiniz yere siz durdurana kadar yazar bunu Whatsapp Discord Facebook konuşma alanlarında sürekli mesaj atıp arkadaşlarınızı gıcık edebilirsiniz
+
+
+
 
 # Görüntü
 
