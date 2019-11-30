@@ -2,7 +2,7 @@
 
 Programın amacı yazdığınız metinleri belirlediğiniz yere siz durdurana kadar yazar bunu Whatsapp Discord Facebook konuşma alanlarında sürekli mesaj atıp arkadaşlarınızı gıcık edebilirsiniz
 
-
+#### [İndirmek İçin Tıkla](https://yadi.sk/d/IY77mW1QsNey5g "İndirmek İçin Tıkla")
 
 
 # Görüntü
